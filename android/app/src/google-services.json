@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923104298152",
+    "project_id": "delivereeb",
+    "storage_bucket": "delivereeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923104298152:android:d449a3ed29365a3b80ae9d",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923104298152-tr8ro4dkn55mg2nhbespn48r7h7og5ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJVZOpdICj8wfW8agIR-h-EH_ch0fiN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923104298152-tr8ro4dkn55mg2nhbespn48r7h7og5ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
